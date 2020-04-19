@@ -1,0 +1,17 @@
+body{
+    background-color: darkslategrey;
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration:underline ;
+    }
+    h1{
+    color: maroon;
+    text-align: center;
+    text-transform: uppercase;
+    }
+    p{
+    text-transform: lowercase;
+    text-align: center;
+    color: white;
+    font-size: medium;
+    }
